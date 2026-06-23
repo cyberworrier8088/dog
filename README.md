@@ -1,2 +1,2 @@
 # dog
-a simple dog site
+a simple dog site made for fun
